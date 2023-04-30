@@ -1,0 +1,15 @@
+C:\Users\555\OneDrive\Masaüstü\Async_Await\Async_Await\bin\Debug\net6.0\Async_Await.exe
+C:\Users\555\OneDrive\Masaüstü\Async_Await\Async_Await\bin\Debug\net6.0\Async_Await.deps.json
+C:\Users\555\OneDrive\Masaüstü\Async_Await\Async_Await\bin\Debug\net6.0\Async_Await.runtimeconfig.json
+C:\Users\555\OneDrive\Masaüstü\Async_Await\Async_Await\bin\Debug\net6.0\Async_Await.dll
+C:\Users\555\OneDrive\Masaüstü\Async_Await\Async_Await\bin\Debug\net6.0\Async_Await.pdb
+C:\Users\555\OneDrive\Masaüstü\Async_Await\Async_Await\obj\Debug\net6.0\Async_Await.csproj.AssemblyReference.cache
+C:\Users\555\OneDrive\Masaüstü\Async_Await\Async_Await\obj\Debug\net6.0\Async_Await.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\555\OneDrive\Masaüstü\Async_Await\Async_Await\obj\Debug\net6.0\Async_Await.AssemblyInfoInputs.cache
+C:\Users\555\OneDrive\Masaüstü\Async_Await\Async_Await\obj\Debug\net6.0\Async_Await.AssemblyInfo.cs
+C:\Users\555\OneDrive\Masaüstü\Async_Await\Async_Await\obj\Debug\net6.0\Async_Await.csproj.CoreCompileInputs.cache
+C:\Users\555\OneDrive\Masaüstü\Async_Await\Async_Await\obj\Debug\net6.0\Async_Await.dll
+C:\Users\555\OneDrive\Masaüstü\Async_Await\Async_Await\obj\Debug\net6.0\refint\Async_Await.dll
+C:\Users\555\OneDrive\Masaüstü\Async_Await\Async_Await\obj\Debug\net6.0\Async_Await.pdb
+C:\Users\555\OneDrive\Masaüstü\Async_Await\Async_Await\obj\Debug\net6.0\Async_Await.genruntimeconfig.cache
+C:\Users\555\OneDrive\Masaüstü\Async_Await\Async_Await\obj\Debug\net6.0\ref\Async_Await.dll
